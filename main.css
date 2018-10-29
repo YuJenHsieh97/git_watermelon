@@ -1,0 +1,17 @@
+header {
+  width:auto;
+  background: #ea5169;
+  color:black;
+  text-align: center;
+}
+
+p{
+    text-align:justify;
+}
+
+img{
+  width :30vh;
+  height:30vh;
+  text-align: center;
+
+}
