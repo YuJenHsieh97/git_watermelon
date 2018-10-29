@@ -28,3 +28,12 @@ footer{
 title{
   color:rebeccapurple;
 }
+
+#frames{
+animation:fading 3s infinite;
+}
+
+@keyframes fading{
+  0% {opacity: 0}
+  100% {opacity: 100}
+}
